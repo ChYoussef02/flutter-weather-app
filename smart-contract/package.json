@@ -65,7 +65,7 @@
     "command-line-args": "^4.0.7",
     "commander": "^3.0.2",
     "concat-map": "^0.0.1",
-    "cookie": "^0.4.2",
+    "cookie": "^0.7.0",
     "core-js-pure": "^3.24.1",
     "core-util-is": "^1.0.2",
     "crc-32": "^1.2.2",
